@@ -48,8 +48,8 @@ section {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(44.jpg) no-repeat;
-    background-size: contain;
+    background: url(44.jpg) no-repeat; 
+    background-size: cover
     background-position: center;
 }
 
